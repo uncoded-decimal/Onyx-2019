@@ -15,8 +15,8 @@ mixin globals {
     "co1": "Komal Tripathi",
     "co2": "Aparna Verma",
     "co3": "",
-    "co1n": "9140628864",
-    "co2n": "9319922676",
+    "co1n": "xxxxxxxxxx",
+    "co2n": "xxxxxxxxxx",
     "co3n": ""
   };
   static var item1 = {
@@ -27,8 +27,8 @@ mixin globals {
     "co1": "Swati Soni",
     "co2":"Parul Gupta",
     "co3": "",
-    "co1n": "9810164760",
-    "co2n":"7839232213",
+    "co1n": "xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":""
   };
   static var item2 = {
@@ -39,8 +39,8 @@ mixin globals {
     "co1":"Shubhi Agarwal",
     "co2":"Parul Panchal",
     "co3":"",
-    "co1n":"7042357573",
-    "co2n":"8750736445",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
   
@@ -52,8 +52,8 @@ mixin globals {
     "co1":"Vivek Chauhan",
     "co2":"Rijula Madhuraj",
     "co3":"",
-    "co1n":"7455954906",
-    "co2n":"7380370199",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
   
@@ -65,9 +65,9 @@ mixin globals {
     "co1":"Abhimanyu Rawat",
     "co2":"Janvee Yadav",
     "co3":"Kriti Yadav",
-    "co1n":"7275007342",
-    "co2n":"9675751670",
-    "co3n":"7579576297",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
+    "co3n":"xxxxxxxxxx",
   };
   
   static var item5 = {
@@ -78,9 +78,9 @@ mixin globals {
     "co1":"Astha Shakya",
     "co2":"Astha Vaish",
     "co3":"Gokul Dudani",
-    "co1n":"7599787230",
-    "co2n":"8318749920",
-    "co3n":"7007828676",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
+    "co3n":"xxxxxxxxxx",
   };
   static var item6 = {
     "img":"assets/images/prashansa-min.jpeg",
@@ -90,8 +90,8 @@ mixin globals {
     "co1":"Kunal Kalra",
     "co2":"Saurabh Upadhaya",
     "co3":"",
-    "co1n":"9044912142",
-    "co2n":"7903504551",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
   
@@ -103,9 +103,9 @@ mixin globals {
     "co1":"Tanushi Singhal",
     "co2":"Kartikey",
     "co3":"Vivek Chauhan",
-    "co1n":"7455954906",
-    "co2n":"7800202571",
-    "co3n":"9149312720",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
+    "co3n":"xxxxxxxxxx",
   };
 
   static var item8 = {
@@ -116,8 +116,8 @@ mixin globals {
     "co1":"Vashisht Mattoo",
     "co2":"Akshat Khare",
     "co3":"",
-    "co1n":"8368289520",
-    "co2n":"9810555053",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
   
@@ -129,8 +129,8 @@ mixin globals {
     "co1":"Vashisht Mattoo",
     "co2":"Akshat Khare",
     "co3":"",
-    "co1n":"8368289520",
-    "co2n":"9810555053",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
  
@@ -142,8 +142,8 @@ mixin globals {
     "co1":"Vashisht Mattoo",
     "co2":"Akshat Khare",
     "co3":"",
-    "co1n":"8368289520",
-    "co2n":"9810555053",
+    "co1n":"xxxxxxxxxx",
+    "co2n":"xxxxxxxxxx",
     "co3n":"",
   };
   static var lisst = [item0, item1, item2, item3, item4, item5, item6, item7, item8, item9, item10];
